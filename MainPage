@@ -4,8 +4,14 @@
         <title>
             Hello Word
         </title> 
-        <body>
-            Hello HTML Fundamentals
-        </body>
+<meta name="description" content="A simple module">
+<meta name="author" content="Piotr Lewkowicz">
+<link rel="stylesheet" href=>
+<script>
+    alert("Hello Piotr")
+</script>
     </head>
+    <body>
+        Hello HTML Fundamentals
+    </body>
 </html>
